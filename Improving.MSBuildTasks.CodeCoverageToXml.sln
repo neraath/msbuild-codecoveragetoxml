@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Improving.MSBuildTasks.CodeCoverageToXml", "Improving.MSBuildTasks.CodeCoverageToXml\Improving.MSBuildTasks.CodeCoverageToXml.csproj", "{9FD47D9C-59BD-4948-A9DF-44F58E820BCD}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FD47D9C-59BD-4948-A9DF-44F58E820BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD47D9C-59BD-4948-A9DF-44F58E820BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD47D9C-59BD-4948-A9DF-44F58E820BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD47D9C-59BD-4948-A9DF-44F58E820BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
